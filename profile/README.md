@@ -2,4 +2,4 @@
 
 **Foundations for Verifiable Knowledge Discovery**
 
-We are a research lab studying formal verification, interpretability, and incentive design for safe and reliable human–AI collaboration.
+Varifold is a research lab studying formal verification, interpretability, and incentive mechanisms, with a focus on the mathematical foundations of AI safety.
